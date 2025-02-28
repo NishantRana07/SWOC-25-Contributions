@@ -1,42 +1,89 @@
-<h1 align="center">SWOC'25 Contributions of <a href="github.com/nishantrana07">Nishant Rana</a></h1>
-<p>So my journey starts with adding my profile in the Dev Display project  - <a href="https://github.com/codeaashu/DevDisplay/pull/696">PR 696</a> </p>
+# SWOC'25 Contributions of [Nishant Rana](https://github.com/nishantrana07) 🎉
 
-<p>At that time i am studying DESIGN AND ANALYSIS OF ALGORITHMS in my College so made a lot of contributions in <a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK">DSA Project</a> and ended up making 35+ DSA PR's and 5+ Development PR's</p>
-<h3>You can see my PR's</h3>
-<ul>
-  <li><a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/353">PR 353</a></li>
-  <li><a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/352">PR 352</a></li>
-  <li><a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/283">PR 283</a></li>
-  <li><a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/161">PR 161</a></li>
-  <li><a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/160">PR 160</a></li>
-  <li><a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/148">PR 148</a></li>
-  <li><a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/116">PR 116</a></li>
-  <li> <a href="https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me">More..</a></li>
-</ul>
+---
 
-<h2><p> I have made a lot of development realted contributions in many projects like - </p></h2>
-<ul>
-  <h3><li><a href="https://github.com/dhairyagothi/100_days_100_web_project">100 days of web projects</a></li></h3>
-  <ul>
-    <li><a href="https://github.com/dhairyagothi/100_days_100_web_project/pull/371">PR 371<a></li>
-    <li><a href="https://github.com/dhairyagothi/100_days_100_web_project/pull/462">PR 462<a></li>
-    <li><a href="https://github.com/dhairyagothi/100_days_100_web_project/pull/476">PR 462<a></li>
-  </ul>
-  <h3><li><a href="https://github.com/OkenHaha/react-blog">React Blog</a></li></h3>
-      <ul>
-        <li><a href="https://github.com/OkenHaha/react-blog/pull/361">PR 361</a></li>
-        <li><a href="https://github.com/OkenHaha/react-blog/pull/354">PR 354</a></li>
-      </ul>
-  <h3><li><a href="https://github.com/vishantrathi/woolconnect">Wool Connect</a></li></h3>
-      <ul>
-        <li><a href="https://github.com/vishantrathi/woolconnect/pull/77">PR 77</a></li>
-      </ul>
-  <h3><li><a href="https://github.com/saismrutiranjan18/Tiffin_Fusion">Tiffin Fusion</a></li></h3>
-      <ul>
-        <li><a href="https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/155">PR 155</a></li>
-      </ul>
-  <h3><li><a href="https://github.com/Mujtabaa07/coffeeShop">Coffee Shop</a></li></h3>
-      <ul>
-        <li><a href="https://github.com/Mujtabaa07/coffeeShop/pull/296">PR 296</a></li>
-      </ul>
-</ul>
+## 🚀 Introduction
+
+My journey began with contributing to the **Dev Display** project, where I added my profile in the project - [PR 696](https://github.com/codeaashu/DevDisplay/pull/696).
+
+At that time, I was studying **Design and Analysis of Algorithms** (DSA) in college, which led me to contribute to the [**DSA Project**](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK). Over time, I made **35+ DSA PRs** and **5+ Development PRs**.
+
+---
+
+## 📝 My Contributions
+
+### 📚 DSA Contributions
+
+Here are some of the pull requests that I contributed to in the **DSA Project**:
+
+- [PR 353](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/353)
+- [PR 352](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/352)
+- [PR 283](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/283)
+- [PR 161](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/161)
+- [PR 160](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/160)
+- [PR 148](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/148)
+- [PR 116](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/pull/116)
+
+> **More PRs:** [Click here](https://github.com/PRIYESHSINGH24/SMART_DSA_NOTEBOOK/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me)
+
+---
+
+### 💻 Development Contributions
+
+I have made multiple development-related contributions to various projects. Here are some notable ones:
+
+#### 1. **100 Days of Web Projects**
+   - [PR 371](https://github.com/dhairyagothi/100_days_100_web_project/pull/371)
+   - [PR 462](https://github.com/dhairyagothi/100_days_100_web_project/pull/462)
+   - [PR 476](https://github.com/dhairyagothi/100_days_100_web_project/pull/476)
+
+#### 2. **React Blog**
+   - [PR 361](https://github.com/OkenHaha/react-blog/pull/361)
+   - [PR 354](https://github.com/OkenHaha/react-blog/pull/354)
+
+#### 3. **Wool Connect**
+   - [PR 77](https://github.com/vishantrathi/woolconnect/pull/77)
+
+#### 4. **Tiffin Fusion**
+   - [PR 155](https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/155)
+
+#### 5. **Coffee Shop**
+   - [PR 296](https://github.com/Mujtabaa07/coffeeShop/pull/296)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- HTML, CSS, JavaScript, React, Tailwind CSS
+
+**MERN Stack:**
+- MongoDB, Express.js, React, Node.js
+
+**Data Structures & Algorithms (DSA):**
+- Java, C, C++
+
+---
+
+## 🌱 Learning & Growth
+
+- **Continuous Learning:** I believe in constantly improving my skills, and through SWOC'25, I have enhanced my knowledge in DSA and full-stack development.
+- **Collaboration:** I enjoy collaborating with others and contributing to open-source projects to learn and grow together.
+
+---
+
+### 📫 Connect with Me
+
+- [GitHub](https://github.com/nishantrana07)
+- [LinkedIn](https://www.linkedin.com/in/nishantrana07/)
+
+Feel free to reach out to me for any contributions, collaborations, or just to chat about technology! 🚀
+
+---
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+---
+
+> This README is a reflection of my contributions and my journey throughout the **SWOC'25** program! 🌟
+
